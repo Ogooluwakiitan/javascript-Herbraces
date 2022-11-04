@@ -96,7 +96,6 @@ function numberCheck(a, b) {
   }
   
   console.log(vowelCount("Python"));
-  console.log(vowelCount("w3resource.com"));
   
   // 9. Write a Javascript program that converts a string to an array.
 
